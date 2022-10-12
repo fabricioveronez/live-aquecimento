@@ -5,3 +5,6 @@ Linha adicionada localmente
 Linha nova adicionada localmente
 
 Linha adicionada remotamente
+
+
+Nova linha remota
